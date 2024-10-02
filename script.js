@@ -1,4 +1,5 @@
-//Autor: Estevão Jose Jesus de Oliveira 2C 
+//Autor: Estevão Jose Jesus de Oliveira (2C) 11/09/24
+
 const avanca = document.querySelectorAll('.btn-proximo');
 
 avanca.forEach(button => {
